@@ -1,3 +1,9 @@
-ResNeXt
-tensorflow-nmt
-character-rnn
+1、chatbot、QA、NMT、机器阅读理解
+（1）算法理论部分：调研高质量论文，从survey和别人的论文记录看起
+（2）算法实践部分：tensorflow nmt + character rnn + 论文开源代码
+
+2、强化学习
+（1）算法理论部分：书本《reinforcement learning -- an introduction》
+（2）算法实践部分：论文 + 代码
+
+3、可暂时拖后NLG，待有时间研究再说
