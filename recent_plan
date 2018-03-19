@@ -1,9 +1,10 @@
-1、tensorflow nmt:🌟 
-
-2、QA
-
+1、基础算法部分
+（1）模式识别与机器学习
+（2）deeplearning.ai note
+2、自然语言处理部分
+（1）统计自然语言处理
+（2）机器翻译与问答系统
 3、强化学习
-（1）算法理论部分：书本《reinforcement learning -- an introduction》
-（2）算法实践部分：博客 + 代码🌟
-
-4、deeplearning.ai note
+（1）introduction
+（2）莫烦 强化学习 🌟
+4、工具：tensorflow 🌟
